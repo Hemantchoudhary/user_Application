@@ -22,4 +22,7 @@ This project is a User Management API built with Node.js, Express, TypeScript, a
 ### 1. Clone the Repository
 
 ```bash
+1 git clone https://github.com/Hemantchoudhary/user_application.git
+2 npm install
+3 npm run dev
 # user_application
